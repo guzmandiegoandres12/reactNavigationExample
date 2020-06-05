@@ -1,0 +1,17 @@
+{
+  "name": "navigation",
+  "displayName": "navigation",
+  "expo": {
+    "name": "navigation",
+    "slug": "navigation",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
